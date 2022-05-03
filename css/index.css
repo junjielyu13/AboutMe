@@ -1,0 +1,271 @@
+@page {
+    size: auto;
+    margin: 0mm;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.eot?u7jiee');
+    src: url('../fonts/icomoon.eot?u7jiee#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?u7jiee') format('truetype'), url('../fonts/icomoon.woff?u7jiee') format('woff'), url('../fonts/icomoon.svg?u7jiee#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.w {
+    width: 794px;
+    height: 1123px;
+    margin: auto;
+}
+
+.container {
+    width: 714px;
+    height: 1123px;
+    margin: auto;
+    padding-top: 5px;
+}
+
+.info {
+    width: 100%;
+    height: 150px;
+}
+
+.nom {
+    float: left;
+    width: 33%;
+    height: 100%;
+    color: #5499d4;
+    line-height: 170px;
+    font-size: 33px;
+    font-weight: 700;
+    font-family: Sans-Serif;
+    padding-top: 10px;
+}
+
+.contacte {
+    float: right;
+    height: 100%;
+}
+
+.foto {
+    float: right;
+    height: 100%;
+}
+
+.foto img {
+    padding-top: 20px;
+    height: 85%;
+}
+
+.gmail {
+    float: right;
+    width: 256px;
+    padding-top: 55px;
+}
+
+.left {
+    float: left;
+    width: 90px;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.right {
+    font-size: 14px;
+    float: left;
+}
+
+.email {
+    height: 40px;
+}
+
+.email .left::before {
+    font-family: 'icomoon';
+    content: "\e900";
+    color: red;
+    margin-right: 5px;
+}
+
+.telefono {
+    width: 260px;
+}
+
+.telefono .left::before {
+    font-family: 'icomoon';
+    content: "\e942";
+    margin-right: 5px;
+}
+
+.telefono .right {
+    margin-top: 2px;
+}
+
+.linkedln {
+    margin-top: 30px;
+}
+
+.linkedln .left::before {
+    font-family: 'icomoon';
+    content: "\e903";
+    color: #0e76a8;
+    margin-right: 5px;
+}
+
+.linkedln .right {
+    margin-top: 2px;
+}
+
+.border {
+    margin-top: 15px;
+    padding-bottom: 5px;
+    border-bottom: 2px dotted #a8c1dd;
+}
+
+
+/*  */
+
+.title {
+    display: block;
+    font-size: 18px;
+    margin: 3px 0px 18px 0;
+}
+
+
+/***/
+
+.purpose {
+    height: 70px;
+}
+
+.becario {
+    display: block;
+    font-size: 18px;
+    font-weight: 650;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.academic {
+    height: 115px;
+}
+
+.acad-left {
+    float: left;
+    width: 250px;
+}
+
+.acad-left span {
+    display: block;
+}
+
+.major {
+    color: #177cb0;
+    font-size: 25px;
+}
+
+.nomUni,
+.durationd {
+    font-size: 20px;
+}
+
+.acad-right .course {
+    width: 450px;
+    float: right;
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.skills {
+    padding-bottom: 20px;
+}
+
+.skills ul li {
+    font-size: 18px;
+    list-style-type: none
+}
+
+.project {
+    height: 63px;
+}
+
+.date {
+    width: 130px;
+    float: left;
+}
+
+.detall {
+    float: left;
+}
+
+.detall ul {
+    margin-left: 20px;
+}
+
+.detall ul li {
+    padding-left: 10px;
+}
+
+.projectTitle {
+    font-weight: 550;
+}
+
+.experience {
+    height: 100px;
+}
+
+.experience ul {
+    padding-left: 15px;
+}
+
+.experience li {
+    list-style-type: '- ';
+    padding-left: 15px;
+}
+
+.other {
+    height: 100px;
+}
+
+.interest {
+    float: left;
+}
+
+.interest .title {
+    margin: 10px 0 10px 0;
+}
+
+.interest ol {
+    padding-left: 15px;
+}
+
+.language {
+    width: 350px;
+    height: 200px;
+    float: right;
+}
+
+.language .title {
+    margin: 10px 0 10px 0;
+}
+
+.language li {
+    list-style-type: '- ';
+}
+
+.boxleft {
+    float: left;
+}
+
+.boxleft ul {
+    padding-left: 10px;
+}
+
+.boxright {
+    float: right;
+}
