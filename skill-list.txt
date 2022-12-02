@@ -1,15 +1,18 @@
-backend: java, 
+backend: java, (android studio)
 backend: c/c++, 
 backend: python, (flask, django, selenium)
 backend: php, (laravel)
 
 fronted: html5, css3, javascript, typescret, 
-fronted: jquery, bootstrap, ajax, node.js, webpack, ps
-fronted: React.js (next.js),
+fronted: jquery, bootstrap, ajax, node.js, express.js webpack, ps
+fronted: React.js, next.js, nest.js
+fronted: vue3
 
-ddbb: mysql, sql, mongoDB, PostgreSQL
+ddbb: mysql, sql, mongoDB, PostgreSQL, firebase
 
-developtool: git, github, docker
+servidor: nginx, apache, digitalocean, aws, OVH
+
+developtool: git, github, docker, k8s,
 
 formatter: Prettier, ESlint
 
