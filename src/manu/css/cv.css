@@ -1,0 +1,602 @@
+@page {
+  size: auto;
+  margin: 0mm;
+}
+
+@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icomoon.eot?hgxpku");
+  src: url("../fonts/icomoon.eot?hgxpku#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon.ttf?hgxpku") format("truetype"),
+    url("../fonts/icomoon.woff?hgxpku") format("woff"),
+    url("../fonts/icomoon.svg?hgxpku#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.w {
+  width: 794px;
+  height: 1123px;
+  margin: auto;
+  /* background-color: pink; */
+}
+
+.container {
+  width: 714px;
+  height: 1123px;
+  margin: auto;
+  padding-top: 5px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.image {
+  width: 200px;
+  height: 270px;
+  background: url(../img/manu_ps.png) no-repeat;
+  background-size: 200px 270px;
+  border-radius: 15%;
+}
+
+.name {
+  margin-top: 40px;
+  font-size: 30px;
+  font-weight: 550;
+  color: #4285cc;
+}
+
+.contacte {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: left;
+  width: 100%;
+  height: 30px;
+  margin-top: 30px;
+  font-size: 17px;
+}
+
+.pos {
+  width: 15%;
+}
+
+.date {
+  width: 15%;
+}
+
+.gmail {
+  width: 32%;
+}
+
+.phone {
+  width: 20%;
+}
+
+.wx {
+  width: 18%;
+}
+
+.pos::before {
+  font-family: "icomoon" !important;
+  content: "\e9ca";
+  margin-right: 5px;
+}
+
+.date::before {
+  font-family: "icomoon" !important;
+  content: "\e900";
+}
+
+.gmail-1::before,
+.gmail-2::before {
+  font-family: "icomoon" !important;
+  content: "\ea83";
+  margin-right: 5px;
+}
+
+.phone::before {
+  font-family: "icomoon" !important;
+  content: "\e942";
+}
+
+.wx::before {
+  font-family: "icomoon" !important;
+  content: "\e96c";
+}
+
+.study {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.study-title {
+  font-size: 30px;
+  font-weight: 600;
+  border-bottom: 2px solid #539cea;
+  padding-bottom: 10px;
+  color: #539cea;
+}
+
+.study-block {
+  display: flex;
+  justify-content: space-between; /* [x    x    x] */
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+.habi {
+  margin-top: 40px;
+}
+
+.habi-block {
+  margin-top: 20px;
+}
+
+.habi-block div {
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+.part {
+  margin-top: 20px;
+}
+
+.value {
+  margin-top: 40px;
+}
+
+.value-block {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.info {
+  /* background-color: aliceblue; */
+  width: 100%;
+  height: 150px;
+  margin-top: 30px;
+}
+
+.name-obj {
+  /* background-color: #0e76a8; */
+  width: 100%;
+  height: 80px;
+  vertical-align: middle;
+}
+
+.contacte-left {
+  float: left;
+  width: 42%;
+  height: 100%;
+}
+
+.contacte-right {
+  float: left;
+  width: 58%;
+  height: 100%;
+}
+
+.nom {
+  line-height: 80px;
+  float: left;
+  width: 33%;
+  height: 100%;
+  color: #36353b;
+  font-size: 34px;
+  font-weight: 600;
+  font-family: Sans-Serif;
+}
+
+.object {
+  float: left;
+  height: 100%;
+  width: 67%;
+}
+
+.obj-str {
+  margin-top: 20px;
+
+  background-color: #404040;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.object p {
+  display: inline-block;
+  font-size: 26px;
+  color: #ffffff;
+  margin: 5px;
+}
+
+/* ********************************** */
+
+.contacte {
+  width: 100%;
+  height: 70px;
+}
+
+.left {
+  float: left;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: right;
+  margin-right: 10px;
+  margin-right: 5px;
+  line-height: 35px;
+}
+
+.right {
+  font-size: 16px;
+  float: left;
+  line-height: 35px;
+}
+
+.email {
+  float: left;
+  width: 100%;
+  height: 40%;
+}
+
+.email .left::before {
+  font-family: "icomoon";
+  content: "\f0e0";
+  font-size: 20px;
+  color: #c42220;
+  margin-right: 5px;
+}
+
+.email .right {
+  padding-top: 2px;
+}
+
+.telefono {
+  float: left;
+  width: 100%;
+  height: 60%;
+}
+
+.telefono .left::before {
+  font-family: "icomoon";
+  content: "\f095";
+  font-size: 20px;
+  margin-right: 6px;
+  padding-left: 2px;
+}
+
+.telefono .right {
+  margin-top: 2px;
+}
+
+.linkedln {
+  float: left;
+  width: 100%;
+  height: 40%;
+}
+
+.linkedln .left::before {
+  font-family: "icomoon";
+  content: "\e900";
+  font-size: 22px;
+  color: #0e76a8;
+  margin-right: 5px;
+}
+
+.linkedln .right {
+  padding-top: 4px;
+}
+
+.github {
+  float: left;
+  width: 100%;
+  height: 60%;
+}
+
+.github .left::before {
+  font-family: "icomoon";
+  content: "\f09b";
+  font-size: 20px;
+  margin-right: 8px;
+  padding-left: 2px;
+}
+
+.github .right {
+  padding-top: 2px;
+}
+
+/* ********************************** */
+
+.split-line {
+  color: #404040;
+  width: 97%;
+  height: 30px;
+  border-bottom: 1px solid #404040;
+  margin-top: 15px;
+}
+
+.split-line p {
+  font-weight: 900;
+  font-size: 28px;
+}
+
+/* ********************************** */
+
+.educate {
+  width: 100%;
+  height: 100px;
+  /* background-color: red; */
+}
+
+.unipart {
+  width: 100%;
+  height: 45px;
+  /* background-color: pink; */
+}
+
+.course {
+  width: 100%;
+  height: 55px;
+}
+
+.time {
+  float: left;
+  width: 25%;
+  line-height: 50px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.uniname {
+  line-height: 50px;
+  font-weight: 600;
+  font-size: 23px;
+  float: left;
+  width: 40%;
+}
+
+.carrer {
+  line-height: 50px;
+  font-weight: 600;
+  font-size: 20px;
+  float: left;
+  width: 35%;
+}
+
+.course {
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+/* ********************************** */
+
+.project {
+  width: 100%;
+  height: 100px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.project-head {
+  width: 100%;
+  height: 30px;
+}
+
+.project-time {
+  width: 25%;
+  float: left;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.project-name {
+  width: 75%;
+  float: left;
+  line-height: 30px;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.project-desc {
+  width: 100%;
+  height: 70%;
+}
+
+.project-description strong {
+  margin-right: 5px;
+}
+
+/* ********************************** */
+
+.skill-part {
+  width: 100%;
+  height: 50px;
+}
+
+.skill-part strong {
+  line-height: 50px;
+  float: left;
+  font-size: 20px;
+}
+
+.skill-part p {
+  float: left;
+  line-height: 50px;
+  font-size: 19px;
+}
+
+/* ********************************** */
+.final-part {
+  width: 100%;
+  height: 120px;
+}
+
+.final-left {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+
+.final-right {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+
+.final-title {
+  width: 50%;
+  height: 30px;
+  color: #404040;
+  border-bottom: 1px solid #404040;
+  margin-top: 15px;
+  font-weight: 900;
+  font-size: 28px;
+}
+
+.interest-part {
+  margin-top: 15px;
+  margin-left: 18px;
+  font-size: 18px;
+}
+
+.languages-part {
+  margin-top: 15px;
+  font-size: 18px;
+  padding-left: 9px;
+}
+
+.purpose {
+  height: 70px;
+}
+
+.becario {
+  display: block;
+  font-size: 18px;
+  font-weight: 650;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.academic {
+  height: 115px;
+}
+
+.acad-left {
+  float: left;
+  width: 250px;
+}
+
+.acad-left span {
+  display: block;
+}
+
+.major {
+  color: #177cb0;
+  font-size: 25px;
+}
+
+.nomUni,
+.durationd {
+  font-size: 20px;
+}
+
+.acad-right .course {
+  width: 450px;
+  float: right;
+  font-size: 16px;
+  padding-top: 20px;
+}
+
+.skills {
+  padding-bottom: 20px;
+}
+
+.skills ul li {
+  font-size: 18px;
+  list-style-type: none;
+}
+
+.project {
+  height: 63px;
+}
+
+.detall {
+  float: left;
+}
+
+.detall ul {
+  margin-left: 20px;
+}
+
+.detall ul li {
+  padding-left: 10px;
+}
+
+.projectTitle {
+  font-weight: 550;
+}
+
+.experience {
+  height: 100px;
+}
+
+.experience ul {
+  padding-left: 15px;
+}
+
+.experience li {
+  list-style-type: "- ";
+  padding-left: 15px;
+}
+
+.other {
+  height: 100px;
+}
+
+.interest {
+  float: left;
+}
+
+.interest .title {
+  margin: 10px 0 10px 0;
+}
+
+.interest ol {
+  padding-left: 15px;
+}
+
+.language {
+  width: 350px;
+  height: 200px;
+  float: right;
+}
+
+.language .title {
+  margin: 10px 0 10px 0;
+}
+
+.language li {
+  list-style-type: "- ";
+}
+
+.boxleft {
+  float: left;
+}
+
+.boxleft ul {
+  padding-left: 10px;
+}
+
+.boxright {
+  float: right;
+}
