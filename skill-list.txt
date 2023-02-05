@@ -2,7 +2,7 @@ backend: java, (android studio)
 backend: c/c++, 
 backend: python, (flask, django, selenium)
 backend: php, (laravel)
-backend: node.js express.js nest.js, ejs, prisma
+backend: node.js express.js nest.js, ejs, prisma, mongoose
 
 fronted: html5, css3, javascript, typescret, 
 fronted: sass, jquery, bootstrap, tailwindCSS, ajax,
