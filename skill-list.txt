@@ -11,6 +11,7 @@ fronted: vue3, nuxt
 
 api: RESTful, postman, swagger
 
+compilertool: makefile(C/C++), nodemon(Node.js)
 packegetool: webpack, vite
 
 disseny: ps, figma
