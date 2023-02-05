@@ -9,6 +9,8 @@ fronted: sass, jquery, bootstrap, tailwindCSS, ajax,
 fronted: React.js, next.js,
 fronted: vue3, nuxt
 
+api: RESTful, postman, swagger
+
 packegetool: webpack, vite
 
 disseny: ps, figma
@@ -17,7 +19,9 @@ ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
 
 servidor: nginx, apache, digitalocean, aws, OVH
 
-developtool: git, github, docker, k8s,
+developtool: git, github, docker, k8s, 
+
+operating system: windows, linux
 
 formatter: Prettier, ESlint
 
