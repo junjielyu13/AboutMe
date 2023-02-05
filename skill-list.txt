@@ -22,6 +22,8 @@ servidor: nginx, apache, digitalocean, aws, OVH
 
 developtool: git, github, docker, k8s, 
 
+CI/CD: github action
+
 operating system: windows, linux
 
 formatter: Prettier, ESlint
