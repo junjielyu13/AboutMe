@@ -9,14 +9,13 @@ fronted: sass, jquery, bootstrap, tailwindCSS, ajax, axios
 fronted: React.js, next.js,
 fronted: vue3, nuxt
 
+ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
+
 api: RESTful, postman, swagger
 
 compilertool: makefile(C/C++), nodemon(Node.js)
+
 packegetool: webpack, vite
-
-disseny: ps, figma
-
-ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
 
 servidor: nginx, apache, digitalocean, aws, OVH
 
@@ -25,6 +24,10 @@ developtool: git, github, docker, k8s,
 CI/CD: github action
 
 operating system: windows, linux
+
+architect: SOLID, disseny pattern, MVC, MVVM
+
+disseny: ps, figma
 
 formatter: Prettier, ESlint
 
