@@ -5,7 +5,7 @@ backend: php, (laravel)
 backend: node.js, express.js, nest.js, ejs, prisma, mongoose
 
 fronted: html5, css3, javascript, typescript, 
-fronted: sass, jquery, bootstrap, tailwindCSS, ajax, axios
+fronted: sass, jquery, bootstrap, tailwindCSS, ajax, axios, fetch
 fronted: React.js, next.js,
 fronted: vue3, nuxt
 
