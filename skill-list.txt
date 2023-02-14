@@ -17,7 +17,9 @@ compilertool: makefile(C/C++), nodemon(Node.js)
 
 packegetool: webpack, vite
 
-servidor: nginx, apache, digitalocean, aws, OVH
+servidor: digitalocean, aws, OVH
+
+servidor web: nginx, apache, IIS
 
 developtool: git, github, docker, k8s, 
 
