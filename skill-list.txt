@@ -7,7 +7,8 @@ backend: node.js, express.js, nest.js, ejs, prisma, mongoose
 fronted: html5, css3, javascript, typescript, 
 fronted: sass, jquery, bootstrap, tailwindCSS, ajax, axios, fetch
 fronted: React.js, next.js
-fronted: vue3, nuxt
+fronted: vue3, vuetify.js, nuxt.js
+fronted: SEO basic
 
 ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
 
