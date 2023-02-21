@@ -16,6 +16,8 @@ api: RESTful, postman, swagger
 
 compilertool: makefile(C/C++), nodemon(Node.js)
 
+package manegel: npm, yarn
+
 packegetool: webpack, vite
 
 servidor: digitalocean, aws, OVH
