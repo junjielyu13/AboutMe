@@ -26,6 +26,8 @@ servidor web: nginx, apache, IIS
 
 developtool: git, github, docker, k8s, 
 
+test: TDD, Junit
+
 CI/CD: github action
 
 operating system: windows, linux
