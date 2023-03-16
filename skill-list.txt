@@ -9,6 +9,7 @@ fronted: sass, jquery, bootstrap, tailwindCSS, ajax, axios, fetch, cors
 fronted: React.js, next.js, gatsby
 fronted: vue3, vuetify.js, nuxt.js, pinia
 fronted: SEO basic
+fronted libraries: Echarts
 
 ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
 
@@ -23,6 +24,8 @@ packegetool: webpack, vite
 servidor: digitalocean, aws, OVH
 
 servidor web: nginx, apache, IIS
+
+clound hosting: Vercel
 
 developtool: git, github, docker, k8s, 
 
