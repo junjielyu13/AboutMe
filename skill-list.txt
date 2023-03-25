@@ -11,6 +11,7 @@ fronted: vue3, vuetify.js, nuxt.js, pinia
 fronted: SEO basic
 fronted libraries: Echarts
 fronted: webopengl, tree.js
+fronted: websocket
 
 ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
 
