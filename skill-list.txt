@@ -10,6 +10,7 @@ fronted: React.js, next.js, gatsby
 fronted: vue3, vuetify.js, nuxt.js, pinia
 fronted: SEO basic
 fronted libraries: Echarts
+fronted: webopengl, tree.js
 
 ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
 
