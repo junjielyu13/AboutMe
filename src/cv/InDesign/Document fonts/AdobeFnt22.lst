@@ -1,0 +1,463 @@
+%!Adobe-FontList 1.22
+%Locale:0x804
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville
+FamilyName:Baskerville
+StyleName:Regular
+FullName:Baskerville
+MenuName:Baskerville
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Baskerville.ttc
+TTCOffset:48
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1371312
+FileModTime:1681921881
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Baskerville
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Bold
+FamilyName:Baskerville
+StyleName:Bold
+FullName:Baskerville Bold
+MenuName:Baskerville
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Baskerville.ttc
+TTCOffset:284
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1371312
+FileModTime:1681921881
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Baskerville Bold
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-BoldItalic
+FamilyName:Baskerville
+StyleName:Bold Italic
+FullName:Baskerville Bold Italic
+MenuName:Baskerville
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Baskerville.ttc
+TTCOffset:772
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1371312
+FileModTime:1681921881
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Baskerville Bold Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Italic
+FamilyName:Baskerville
+StyleName:Italic
+FullName:Baskerville Italic
+MenuName:Baskerville
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Baskerville.ttc
+TTCOffset:520
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1371312
+FileModTime:1681921881
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Baskerville Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBold
+FamilyName:Baskerville
+StyleName:SemiBold
+FullName:Baskerville SemiBold
+MenuName:Baskerville
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Baskerville.ttc
+TTCOffset:1024
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1371312
+FileModTime:1681921881
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Baskerville SemiBold
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBoldItalic
+FamilyName:Baskerville
+StyleName:SemiBold Italic
+FullName:Baskerville SemiBold Italic
+MenuName:Baskerville
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Baskerville.ttc
+TTCOffset:1260
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1371312
+FileModTime:1681921881
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Baskerville SemiBold Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeSongStd-Light
+FamilyName:Adobe Song Std
+StyleName:L
+FullName:Adobe Song Std L
+MenuName:Adobe 宋体 Std L
+StyleBits:0
+FamilyNameNative:Adobe 宋体 Std
+StyleNameNative:L
+FullNameNative:Adobe 宋体 Std L
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\AdobeSongStd-Light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15589544
+FileModTime:1681921881
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Song Std L
+NameArray:25,Mac,4,Adobe 宋体 Std L
+NameArray:0,Win,1,Adobe Song Std L
+NameArray:0,Win,16,Adobe Song Std
+NameArray:25,Win,1,Adobe 宋体 Std L
+NameArray:25,Win,16,Adobe 宋体 Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\HelveLTMM
+FileModTime:1681921881
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+FullName:Helvetica
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Helvetica.ttc
+TTCOffset:48
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2356684
+FileModTime:1681921881
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica
+NameArray:0,Mac,4,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+FullName:Helvetica Bold
+MenuName:Helvetica
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Helvetica.ttc
+TTCOffset:380
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2356684
+FileModTime:1681921881
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Bold
+NameArray:0,Mac,4,Helvetica lihava
+NameArray:0,Mac,4,Helvetica Gras
+NameArray:0,Mac,4,Helvetica Fett
+NameArray:0,Mac,4,Helvetica grassetto
+NameArray:0,Mac,4,Helvetica vet
+NameArray:0,Mac,4,Helvetica Fet
+NameArray:0,Mac,4,Helvetica Negrita
+NameArray:0,Mac,4,Helvetica Carregado
+NameArray:0,Mac,4,Helvetica Halvfet
+NameArray:0,Mac,18,Helvetica Bold
+NameArray:4,Mac,4,Helvetica أسèد
+NameArray:4,Mac,4,Helvetica برجستç
+NameArray:5,Mac,4,Helvetica עבה
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-BoldOblique
+FamilyName:Helvetica
+StyleName:Bold Oblique
+FullName:Helvetica Bold Oblique
+MenuName:Helvetica
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Helvetica.ttc
+TTCOffset:1044
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2356684
+FileModTime:1681921881
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica Bold Oblique
+NameArray:0,Mac,4,Helvetica Bold Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Light
+FamilyName:Helvetica
+StyleName:Light
+FullName:Helvetica Light
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Helvetica.ttc
+TTCOffset:1376
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2356684
+FileModTime:1681921881
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica Light
+NameArray:0,Mac,4,Helvetica Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-LightOblique
+FamilyName:Helvetica
+StyleName:Light Oblique
+FullName:Helvetica Light Oblique
+MenuName:Helvetica
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Helvetica.ttc
+TTCOffset:1676
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2356684
+FileModTime:1681921881
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica Light Oblique
+NameArray:0,Mac,4,Helvetica Light Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Oblique
+FamilyName:Helvetica
+StyleName:Oblique
+FullName:Helvetica Oblique
+MenuName:Helvetica
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Helvetica.ttc
+TTCOffset:712
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2356684
+FileModTime:1681921881
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica Oblique
+NameArray:0,Mac,4,Helvetica Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Bold
+FamilyName:Times
+StyleName:Bold
+FullName:Times Bold
+MenuName:Times
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Times.ttc
+TTCOffset:388
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:1681921881
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times Bold
+NameArray:0,Mac,4,Times Gras
+NameArray:0,Mac,4,Times Fett
+NameArray:0,Mac,4,Times grassetto
+NameArray:0,Mac,4,Times vet
+NameArray:0,Mac,4,Times Fet
+NameArray:0,Mac,4,Times Negrita
+NameArray:0,Mac,4,Times Fed
+NameArray:0,Mac,4,Times Carregado
+NameArray:0,Mac,4,Times Halvfet
+NameArray:0,Mac,4,Times lihava
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-BoldItalic
+FamilyName:Times
+StyleName:Bold Italic
+FullName:Times Bold Italic
+MenuName:Times
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Times.ttc
+TTCOffset:1084
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:1681921881
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Times Bold Italic
+NameArray:0,Mac,4,Times Gras italique
+NameArray:0,Mac,4,Times Fett Kursiv
+NameArray:0,Mac,4,Times grassetto corsivo
+NameArray:0,Mac,4,Times vet-cursief
+NameArray:0,Mac,4,Times Fet Kursiv
+NameArray:0,Mac,4,Times Negrita Cursiva
+NameArray:0,Mac,4,Times Fed kursiv
+NameArray:0,Mac,4,Times Carregado It噇ico
+NameArray:0,Mac,4,Times Halvfet kursiv
+NameArray:0,Mac,4,Times lihava kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Italic
+FamilyName:Times
+StyleName:Italic
+FullName:Times Italic
+MenuName:Times
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Times.ttc
+TTCOffset:736
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:1681921881
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Times Italic
+NameArray:0,Mac,4,Times Italique
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times corsivo
+NameArray:0,Mac,4,Times cursief
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times Cursiva
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times It噇ico
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Roman
+FamilyName:Times
+StyleName:Regular
+FullName:Times Roman
+MenuName:Times
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Junjie_Li\Downloads\“cv”-20230419T162940Z-001\“cv”\Document fonts\Times.ttc
+TTCOffset:40
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:1681921881
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times Roman
+%EndFont
+
