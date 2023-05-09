@@ -1,8 +1,9 @@
 ## Requirements
 
-    python v3.6 or higher
+1.  python2 or higher
+2.  numpy:
 
-    pip install numpy
+        pip install numpy
 
 ## Usage
 
