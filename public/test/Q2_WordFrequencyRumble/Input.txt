@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+Foxes are known for their agility and speed.
+Dogs, on the other hand, are known for their loyalty.
