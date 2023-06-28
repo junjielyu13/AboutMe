@@ -13,8 +13,7 @@ def findMagicDiagonal(matrix):
         diagonalIndices = numpy.vstack((numpy.arange(n), numpy.arange(n))).T
     else:
         diagonal = numpy.diagonal(numpy.fliplr(matrix))
-        diagonalIndices = numpy.vstack(
-            (numpy.arange(n), numpy.arange(n)[::-1])).T
+        diagonalIndices = numpy.vstack((numpy.arange(n), numpy.arange(n)[::-1])).T
 
     return numpy.sum(diagonal), diagonalIndices.tolist()
 
