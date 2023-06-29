@@ -23,6 +23,8 @@ package manegel: npm, yarn
 
 packegetool: webpack, vite
 
+ai: tensorflow, PyTorch, brain.js
+
 servidor: digitalocean, aws, OVH
 
 servidor web: nginx, apache, IIS
