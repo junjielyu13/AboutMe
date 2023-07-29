@@ -1,10 +1,10 @@
-backend: java, (android studio)
+backend: java
 backend: c/c++, (Qt)
-backend: python, (flask, django, selenium)
+backend: python, (flask, django, FastAPI, selenium)
 backend: php, (laravel)
 backend: node.js, express.js, nest.js, ejs, prisma, mongoose
 
-fronted: html5, css3, javascript, typescript, 
+fronted: html5, css3, javascript, typescript,
 fronted: sass, jquery, bootstrap, tailwindCSS, bulma.js ajax, axios, fetch, cors
 fronted: React.js, next.js, gatsby, redux
 fronted: vue3, vuetify.js, nuxt.js, pinia
@@ -33,7 +33,7 @@ servidor web: nginx, apache, IIS
 
 clound hosting: Vercel
 
-developtool: git, github, docker, k8s, 
+developtool: git, github, docker, k8s,
 
 test: TDD, Junit
 
