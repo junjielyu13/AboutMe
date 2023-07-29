@@ -13,6 +13,8 @@ fronted libraries: Echarts, charts.js highcharts.js
 fronted: webopengl, tree.js
 fronted: websocket
 
+app: AndroidStudio, react native
+
 ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
 
 api: RESTful, postman, swagger
