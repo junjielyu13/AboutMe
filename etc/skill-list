@@ -13,7 +13,7 @@ frontend libraries: Echarts, charts.js highcharts.js
 frontend: webopengl, tree.js
 frontend: websocket
 
-app: AndroidStudio, react native, WXminiApp
+app: AndroidStudio, react native, WXminiApp, electron
 
 ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
 
