@@ -2,16 +2,19 @@ backend: java
 backend: c/c++, (Qt)
 backend: python, (flask, django, FastAPI, selenium)
 backend: php, (laravel)
-backend: node.js, express.js, nest.js, ejs, prisma, mongoose
+backend: node.js, express.js, nest.js
+backend: cors
+backend: prisma, mongoose
 
-frontend: html5, css3, javascript, typescript,
-frontend: sass, jquery, bootstrap, tailwindCSS, bulma.js ajax, axios, fetch, cors
+frontend: html5, css3, javascript, typescript, ejs
+frontend: sass, jquery, bootstrap, tailwindCSS, bulma.js 
 frontend: React.js, next.js, gatsby, redux
 frontend: vue3, vuetify.js, nuxt.js, pinia
+frontend: ajax, axios, fetch,
 frontend: SEO basic
-frontend libraries: Echarts, charts.js highcharts.js
-frontend: webopengl, tree.js
+frontend: webassembly, webopengl, tree.js
 frontend: websocket
+frontend: Echarts, charts.js highcharts.js
 
 app: AndroidStudio, react native, WXminiApp, electron
 
@@ -21,7 +24,7 @@ api: RESTful, GraphQL, postman, swagger
 
 compilertool: makefile(C/C++), nodemon(Node.js)
 
-package manegel: npm, yarn
+package manegel: npm, yarn, pnpm
 
 packegetool: webpack, vite
 
