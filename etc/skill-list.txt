@@ -18,7 +18,7 @@ frontend: Echarts, charts.js highcharts.js
 
 app: AndroidStudio, react native, WXminiApp, electron
 
-ddbb: mysql, sql, mongoDB, PostgreSQL, redis, firebase
+ddbb: mysql, sql, sqlite, mongoDB, PostgreSQL, redis, firebase
 
 api: RESTful, GraphQL, postman, swagger
 
