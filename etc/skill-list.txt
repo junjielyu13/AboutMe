@@ -20,7 +20,7 @@ app: AndroidStudio, react native, WXminiApp, electron
 
 ddbb: mysql, sql, sqlite, mongoDB, PostgreSQL, redis, firebase
 
-api: RESTful, GraphQL, postman, swagger
+api: RESTful, GraphQL, postman, swagger, gRPC
 
 compilertool: makefile(C/C++), nodemon(Node.js)
 
