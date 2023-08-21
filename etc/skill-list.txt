@@ -16,7 +16,9 @@ frontend: webassembly, webopengl, tree.js
 frontend: websocket
 frontend: Echarts, charts.js highcharts.js
 
-app: AndroidStudio, react native, WXminiApp, electron
+app: AndroidStudio, react native, WXminiApp
+
+desktop: electron, qt
 
 ddbb: mysql, sql, sqlite, mongoDB, PostgreSQL, redis, firebase
 
@@ -36,7 +38,9 @@ servidor web: nginx, apache, IIS
 
 clound hosting: Vercel
 
-developtool: git, github, docker, k8s,
+version control: git, github.
+
+develop: docker, k8s
 
 test: TDD, Junit
 
