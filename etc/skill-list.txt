@@ -26,6 +26,8 @@ api: RESTful, GraphQL, postman, swagger, gRPC
 
 hardware: arduino, esp8266, msp432
 
+tecnictool: ffmpeg
+
 compilertool: makefile(C/C++), nodemon(Node.js)
 
 package manegel: npm, yarn, pnpm
