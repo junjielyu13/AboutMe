@@ -6,11 +6,12 @@ backend: node.js, express.js, nest.js
 backend: cors
 backend: prisma, mongoose
 
-frontend: html5, css3, javascript, typescript, ejs
-frontend: sass, jquery, bootstrap, tailwindCSS, bulma.js, material-ui, ant.design.
-frontend: React.js, next.js, gatsby, redux
-frontend: vue3, vuetify.js, nuxt.js, pinia
-frontend: ajax, axios, fetch,
+frontend: html5, css3, javascript, typescript, ejs.
+frontend: sass, less css, postcss, jquery.
+frontend: bootstrap, tailwindCSS, bulma.js, material-ui, ant.design.
+frontend: React.js, next.js, gatsby, redux.
+frontend: vue3, vuetify.js, nuxt.js, pinia.
+frontend: ajax, axios, fetch
 frontend: SEO basic
 frontend: webassembly, webopengl, tree.js
 frontend: websocket
