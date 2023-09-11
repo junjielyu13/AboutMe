@@ -2,5 +2,5 @@
 eloi: 	distribuid system, Enterprise System Architecture
 ana: 	game ennginy， web game ennginy, webassembly ennginy
 mireia: web, app disseny
-AI:     ai application, ai application architecture
+AI:     ai application, ai application architecture， big model application
 ELEC:   drone
