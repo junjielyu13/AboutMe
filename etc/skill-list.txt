@@ -39,7 +39,7 @@ ai: tensorflow, PyTorch, brain.js
 
 servidor: digitalocean, aws, OVH
 
-servidor web: nginx, apache, IIS
+servidor web: nginx, apache, IIS， tomcat
 
 clound hosting: Vercel
 
