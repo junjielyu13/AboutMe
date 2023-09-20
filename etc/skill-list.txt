@@ -49,7 +49,7 @@ develop: docker, k8s
 
 test: TDD, Junit
 
-CI/CD: github action
+devops: CI/CD, github action
 
 operating system: windows, linux
 
