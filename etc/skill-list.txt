@@ -51,7 +51,7 @@ test: TDD, Junit
 
 devops: CI/CD, github action
 
-operating system: windows, linux
+operating system: windows, linux, macos
 
 architect: SOLID, disseny pattern, MVC, MVVM
 
