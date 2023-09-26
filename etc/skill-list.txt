@@ -1,7 +1,7 @@
 backend: java
-backend: c/c++, (Qt)
-backend: python, (flask, django, FastAPI, selenium)
-backend: php, (laravel)
+backend: c/c++ (Qt)
+backend: python (flask, django, FastAPI, selenium)
+backend: php (laravel)
 backend: node.js, express.js, nest.js
 backend: cors
 backend: prisma, mongoose
@@ -17,7 +17,9 @@ frontend: webassembly, webopengl, tree.js
 frontend: websocket
 frontend: Echarts, charts.js, highcharts.js, d3.js
 
-app: AndroidStudio, react native, WXminiApp
+android: AndroidStudio, react native, WXminiApp
+
+ios: Swift
 
 desktop: electron, qt
 
