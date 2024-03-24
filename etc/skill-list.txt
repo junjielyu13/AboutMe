@@ -63,3 +63,5 @@ disseny: ps, figma
 formatter: Prettier, ESlint
 
 Enterprise management: SAP, PIM
+
+style: Scrum/Agile
