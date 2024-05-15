@@ -24,7 +24,7 @@ ios: Swift
 
 desktop: electron, qt, tauri
 
-ddbb: mysql, sql, sqlite, mongoDB, PostgreSQL, redis, firebase， elasticsearch
+ddbb: mysql, sql, sqlite, mongoDB, PostgreSQL, redis, firebase， elasticsearch, timesclae, cassandra, rabbitmq
 
 api: RESTful, GraphQL, postman, swagger, gRPC
 
