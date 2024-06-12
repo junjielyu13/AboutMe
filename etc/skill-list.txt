@@ -50,10 +50,9 @@ clound hosting: Vercel
 version control: git, github.
 
 develop: docker, k8s
+devops: CI/CD, github action
 
 test: TDD, Junit
-
-devops: CI/CD, github action
 
 operating system: windows, linux, macos
 
