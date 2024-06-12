@@ -29,6 +29,8 @@ ddbb: mysql, sql, sqlite, mongoDB, PostgreSQL, redis, firebase， elasticsearch,
 
 api: RESTful, GraphQL, postman, swagger, gRPC
 
+architect: SOLID, disseny pattern, MVC, MVVM, DDD
+
 hardware: arduino, esp8266, msp432
 
 tecnictool: ffmpeg
@@ -55,8 +57,6 @@ devops: CI/CD, github action
 test: TDD, Junit
 
 operating system: windows, linux, macos
-
-architect: SOLID, disseny pattern, MVC, MVVM
 
 disseny: ps, figma
 
