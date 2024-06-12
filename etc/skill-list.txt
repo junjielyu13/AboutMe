@@ -3,6 +3,7 @@ backend: c/c++ (Qt)
 backend: python (flask, django, FastAPI, selenium)
 backend: php (laravel)
 backend: javascript, node.js, express.js, nest.js
+bakcend: c#(dotnet)
 backend: rust
 backend: cors
 backend: prisma, mongoose
