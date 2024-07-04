@@ -13,6 +13,7 @@ frontend: sass, less css, postcss, jquery.
 frontend: bootstrap, tailwindCSS, bulma.js, material-ui, ant.design.
 frontend: React.js, next.js, gatsby, redux.
 frontend: vue3, vuetify.js, nuxt.js, pinia.
+frontend: angular
 frontend: ajax, axios, fetch
 frontend: SEO basic
 frontend: webassembly, webopengl, tree.js
