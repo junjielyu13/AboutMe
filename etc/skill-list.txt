@@ -65,4 +65,4 @@ formatter: Prettier, ESlint
 
 Enterprise management: SAP, PIM
 
-style: Scrum/Agile
+style: Scrum/Agile, Jira
