@@ -24,7 +24,9 @@ android: AndroidStudio, react native, WXminiApp
 
 ios: Swift
 
-desktop: electron, qt, tauri
+statics: R, minizinc
+
+desktop: electron, qt, tauri, Unity
 
 ddbb: mysql, sql, sqlite, mongoDB, PostgreSQL, redis, firebase， elasticsearch, timesclae, cassandra, rabbitmq
 
@@ -32,7 +34,7 @@ api: RESTful, GraphQL, postman, swagger, gRPC
 
 architect: SOLID, disseny pattern, MVC, MVVM, DDD
 
-hardware: arduino, esp8266, msp432
+hardware: arduino, esp8266, msp432, vhdl
 
 tecnictool: ffmpeg
 
