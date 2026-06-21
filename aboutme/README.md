@@ -1,34 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# junjie.dev — personal site
 
-## Getting Started
+A dark "dev-terminal" personal website for **Junjie Li** — Software Engineer (Barcelona).
+Built from scratch with Next.js 13 (App Router), TypeScript and Tailwind. The whole site is
+framed as a terminal: each section is the output of a command (`$ whoami`, `$ ls experience/`,
+`$ cat skills.json`).
 
-First, run the development server:
+## Features
+
+- **4 languages** — English, Español, Català, 中文. Auto-detects the browser language and
+  remembers your choice (`localStorage`). Switch with the `EN / ES / CA / 中文` toggle.
+- **Animated terminal hero** with a boot sequence (respects `prefers-reduced-motion`).
+- **Sections** — about, experience timeline, projects, tech stack, contact.
+- **CV download** — served from `public/Junjie_Li_CV.pdf`.
+- Fully responsive, accessible focus states, SEO/OpenGraph metadata.
+
+## Run locally
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+npm install
+npm run dev      # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Build / deploy
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run build && npm start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Deploys to Vercel as-is (push the repo and import it). Google Fonts (JetBrains Mono + Inter)
+are fetched at build time, so a network connection is required when building.
 
-## Learn More
+## Where things live
 
-To learn more about Next.js, take a look at the following resources:
+| Path | What |
+|------|------|
+| `src/lib/content.ts` | All content + the 4-language dictionary. **Edit your info here.** |
+| `src/lib/i18n.tsx`   | Language context / switcher logic. |
+| `src/components/`    | `Nav`, `Hero`, `Sections`, `ui` (primitives), `Site` (assembly). |
+| `src/app/`           | Layout (fonts, metadata) + `globals.css` (theme tokens). |
+| `public/Junjie_Li_CV.pdf` | Downloadable CV. |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+To update the CV, replace `public/Junjie_Li_CV.pdf`. To tweak the palette, edit the CSS
+custom properties (`--ground`, `--accent`, …) at the top of `src/app/globals.css`.

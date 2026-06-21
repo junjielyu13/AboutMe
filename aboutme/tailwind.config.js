@@ -7,10 +7,34 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      colors: {
+        ground: 'var(--ground)',
+        panel: 'var(--panel)',
+        'panel-2': 'var(--panel-2)',
+        line: 'var(--line)',
+        text: 'var(--text)',
+        'text-dim': 'var(--text-dim)',
+        muted: 'var(--muted)',
+        accent: 'var(--accent)',
+        'accent-2': 'var(--accent-2)',
+        green: 'var(--green)',
+        red: 'var(--red)',
+      },
+      fontFamily: {
+        mono: ['var(--font-mono)', 'ui-monospace', 'monospace'],
+        sans: ['var(--font-inter)', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+      },
+      maxWidth: {
+        shell: '1080px',
+      },
+      keyframes: {
+        'fade-up': {
+          '0%': { opacity: '0', transform: 'translateY(14px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+      },
+      animation: {
+        'fade-up': 'fade-up 0.5s ease both',
       },
     },
   },

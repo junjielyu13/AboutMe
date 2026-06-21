@@ -131,3 +131,7 @@ dmypy.json
 # compiled output
 /dist
 /node_modules
+
+# Next.js app source (the broad Python `lib/` rule above otherwise hides src/lib)
+!aboutme/src/lib/
+!aboutme/src/lib/**
