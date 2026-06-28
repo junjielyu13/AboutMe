@@ -93,22 +93,26 @@ export const experience: {
     },
     period: '03.2025 — 07.2026',
     current: true,
-    tag: 'public-sector · full-stack',
+    tag: 'team lead · public-sector · full-stack',
     desc: {
       en: [
-        'Built and shipped across several large-scale public-service systems in parallel: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulance Madrid, and the BSM license-plate system.',
+        'Contributed to the concurrent delivery of 6 large-scale public-service platforms across Spain serving 16M+ end users: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulance Madrid, Flexitransport (AMTU), and the BSM license-plate system.',
+        'Acted as team lead for Park Güell and ZBE (AMB), driving architecture decisions, task allocation, and implementation details.',
         'Worked directly with clients to ensure smooth delivery, and ran ongoing maintenance and on-call support in production.',
       ],
       es: [
-        'Desarrollé y entregué en paralelo varios sistemas públicos a gran escala: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulancias de Madrid y el sistema de matrículas de BSM.',
+        'Participé en la entrega concurrente de 6 plataformas públicas a gran escala en toda España con 16M+ usuarios: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulancias de Madrid, Flexitransport (AMTU) y el sistema de matrículas de BSM.',
+        'Ejercí de team lead en Park Güell y ZBE (AMB), liderando decisiones de arquitectura, reparto de tareas y detalles de implementación.',
         'Trabajé directamente con los clientes para asegurar una entrega fluida, con mantenimiento continuo y soporte de guardia en producción.',
       ],
       ca: [
-        'Vaig desenvolupar i lliurar en paral·lel diversos sistemes públics a gran escala: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulàncies de Madrid i el sistema de matrícules de BSM.',
+        'Vaig participar en el lliurament concurrent de 6 plataformes públiques a gran escala arreu d’Espanya amb 16M+ usuaris: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulàncies de Madrid, Flexitransport (AMTU) i el sistema de matrícules de BSM.',
+        'Vaig exercir de team lead a Park Güell i ZBE (AMB), liderant decisions d’arquitectura, repartiment de tasques i detalls d’implementació.',
         'Vaig treballar directament amb els clients per garantir un lliurament fluid, amb manteniment continu i suport de guàrdia en producció.',
       ],
       zh: [
-        '同时参与并交付多个大规模公共服务系统：Park Güell、ZBE（AMB）、马略卡出租车、马德里救护车，以及 BSM 车牌识别系统。',
+        '参与并发交付 6 个面向全西班牙、服务 1600 万+ 用户的大规模公共服务平台：Park Güell、ZBE（AMB）、马略卡出租车、马德里救护车、Flexitransport（AMTU），以及 BSM 车牌识别系统。',
+        '担任 Park Güell 与 ZBE（AMB）的团队负责人，主导架构决策、任务分配与实现细节。',
         '直接与客户对接，保障顺利交付，并负责生产环境的持续维护与值班支持。',
       ],
     },
@@ -183,20 +187,20 @@ export const experience: {
     tag: 'iOS · computer vision',
     desc: {
       en: [
-        'Built an iOS app and SDK for real-time food recognition using computer vision.',
-        'Trained a CSWin Transformer for food classification and built tooling for dataset analysis. Showcased at MWC 2024.',
+        'Developed an iOS app and an open-source native iOS SDK for real-time food recognition using computer vision; showcased at MWC 2024.',
+        'Trained and optimized a multi-task CSWin Transformer for fine-grained food classification on an 800+ category, 500K+ image dataset — improving top-1 accuracy from 47.7% to 81.5% (+33.8pp) through architecture tuning.',
       ],
       es: [
-        'Desarrollé una app iOS y un SDK de reconocimiento de comida en tiempo real con visión por computador.',
-        'Entrené un CSWin Transformer para clasificación de alimentos y herramientas de análisis de datasets. Presentado en el MWC 2024.',
+        'Desarrollé una app iOS y un SDK nativo open-source para reconocimiento de comida en tiempo real con visión por computador; presentado en el MWC 2024.',
+        'Entrené y optimicé un CSWin Transformer multitarea para clasificación fina de alimentos sobre un dataset de 800+ categorías y 500K+ imágenes — mejorando la precisión top-1 del 47,7% al 81,5% (+33,8pp) mediante ajuste de arquitectura.',
       ],
       ca: [
-        'Vaig desenvolupar una app iOS i un SDK de reconeixement d’aliments en temps real amb visió per computador.',
-        'Vaig entrenar un CSWin Transformer per a la classificació d’aliments i eines d’anàlisi de datasets. Presentat al MWC 2024.',
+        'Vaig desenvolupar una app iOS i un SDK natiu open-source per al reconeixement d’aliments en temps real amb visió per computador; presentat al MWC 2024.',
+        'Vaig entrenar i optimitzar un CSWin Transformer multitasca per a la classificació fina d’aliments sobre un dataset de 800+ categories i 500K+ imatges — millorant la precisió top-1 del 47,7% al 81,5% (+33,8pp) mitjançant ajust d’arquitectura.',
       ],
       zh: [
-        '使用计算机视觉开发实时食物识别的 iOS 应用与 SDK。',
-        '训练 CSWin Transformer 模型用于食物分类，并构建数据集分析工具。产品于 MWC 2024 世界移动通信大会展出。',
+        '使用计算机视觉开发实时食物识别的 iOS 应用与开源原生 iOS SDK；产品于 MWC 2024 世界移动通信大会展出。',
+        '在 800+ 类别、50 万+ 图像的数据集上训练并优化多任务 CSWin Transformer 进行细粒度食物分类——通过架构调优将 top-1 准确率从 47.7% 提升到 81.5%（+33.8pp）。',
       ],
     },
   },
@@ -213,15 +217,19 @@ export const experience: {
     desc: {
       en: [
         'Contributed to all core company products: subway and bus fare-evasion detection, a camera health-monitoring assistant, and a backoffice platform.',
+        'Joined tender teams, building technical demos and proof-of-concept solutions to support new client proposals.',
       ],
       es: [
         'Contribuí a todos los productos clave: detección de evasión de pago en metro y bus, un asistente de salud de cámaras y una plataforma de backoffice.',
+        'Participé en equipos de licitación, creando demos técnicas y pruebas de concepto para apoyar nuevas propuestas a clientes.',
       ],
       ca: [
         'Vaig contribuir a tots els productes clau: detecció d’evasió de pagament al metro i bus, un assistent de salut de càmeres i una plataforma de backoffice.',
+        'Vaig participar en equips de licitació, creant demos tècniques i proves de concepte per donar suport a noves propostes a clients.',
       ],
       zh: [
         '参与公司所有核心产品：地铁与公交逃票检测系统、摄像头健康监测助手以及后台管理平台。',
+        '加入投标团队，构建技术演示与概念验证方案，支持新客户提案。',
       ],
     },
   },
@@ -264,12 +272,12 @@ export const projects: {
     name: 'Vibe Coding — Indie Products',
     period: '2026',
     blurb: {
-      en: 'Independently built and shipped multiple small commercial products with AI-assisted workflows — several are live and generating revenue.',
-      es: 'Construí y lancé de forma independiente varios pequeños productos comerciales con flujos asistidos por IA — varios están en producción y generan ingresos.',
-      ca: 'Vaig construir i llançar de manera independent diversos petits productes comercials amb fluxos assistits per IA — diversos són en producció i generen ingressos.',
-      zh: '独立用 AI 辅助工作流构建并上线多个小型商业产品——其中数个已正式运营并产生收入。',
+      en: 'Independently designed, built, and launched 4 commercial products using agentic dev workflows (Claude Code, Codex) — all live with paying clients.',
+      es: 'Diseñé, construí y lancé de forma independiente 4 productos comerciales con flujos de desarrollo agénticos (Claude Code, Codex) — todos en producción y con clientes de pago.',
+      ca: 'Vaig dissenyar, construir i llançar de manera independent 4 productes comercials amb fluxos de desenvolupament agèntics (Claude Code, Codex) — tots en producció i amb clients de pagament.',
+      zh: '使用智能体开发工作流（Claude Code、Codex）独立设计、构建并上线 4 个商业产品——全部正式运营且拥有付费客户。',
     },
-    tags: ['Full-stack', 'AI', 'SaaS'],
+    tags: ['Full-stack', 'AI', 'SaaS', 'Agentic'],
   },
   {
     name: 'HPC Hydrological Model',
@@ -330,7 +338,11 @@ export const stack: { group: string; items: string[] }[] = [
   },
   {
     group: 'ai / hpc',
-    items: ['PyTorch', 'Computer Vision', 'Transformers', 'Task Parallelism', 'Agentic Systems'],
+    items: ['PyTorch', 'Computer Vision', 'Transformers', 'Task Parallelism', 'HPC'],
+  },
+  {
+    group: 'agentics',
+    items: ['LLM APIs', 'Vector DB', 'RAG', 'Embeddings', 'MCP', 'Agentic Systems'],
   },
 ]
 
