@@ -96,23 +96,23 @@ export const experience: {
     tag: 'team lead · public-sector · full-stack',
     desc: {
       en: [
-        'Contributed to the concurrent delivery of 6 large-scale public-service platforms across Spain serving 16M+ end users: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulance Madrid, Flexitransport (AMTU), and the BSM license-plate system.',
-        'Acted as team lead for Park Güell and ZBE (AMB), driving architecture decisions, task allocation, and implementation details.',
+        'Contributed to the concurrent delivery of 7 large-scale public-service platforms across Spain serving 16M+ end users: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU), and the BSM license-plate system.',
+        'Led Park Güell and ZBE (AMB) as team lead of 6 engineers, owning architecture, task allocation, and delivery with 99%+ uptime.',
         'Worked directly with clients to ensure smooth delivery, and ran ongoing maintenance and on-call support in production.',
       ],
       es: [
-        'Participé en la entrega concurrente de 6 plataformas públicas a gran escala en toda España con 16M+ usuarios: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulancias de Madrid, Flexitransport (AMTU) y el sistema de matrículas de BSM.',
-        'Ejercí de team lead en Park Güell y ZBE (AMB), liderando decisiones de arquitectura, reparto de tareas y detalles de implementación.',
+        'Participé en la entrega concurrente de 7 plataformas públicas a gran escala en toda España con 16M+ usuarios: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU) y el sistema de matrículas de BSM.',
+        'Lideré Park Güell y ZBE (AMB) como team lead de 6 ingenieros, asumiendo la arquitectura, el reparto de tareas y la entrega con un 99%+ de disponibilidad.',
         'Trabajé directamente con los clientes para asegurar una entrega fluida, con mantenimiento continuo y soporte de guardia en producción.',
       ],
       ca: [
-        'Vaig participar en el lliurament concurrent de 6 plataformes públiques a gran escala arreu d’Espanya amb 16M+ usuaris: Park Güell, ZBE (AMB), Taxi Mallorca, Ambulàncies de Madrid, Flexitransport (AMTU) i el sistema de matrícules de BSM.',
-        'Vaig exercir de team lead a Park Güell i ZBE (AMB), liderant decisions d’arquitectura, repartiment de tasques i detalls d’implementació.',
+        'Vaig participar en el lliurament concurrent de 7 plataformes públiques a gran escala arreu d’Espanya amb 16M+ usuaris: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU) i el sistema de matrícules de BSM.',
+        'Vaig liderar Park Güell i ZBE (AMB) com a team lead de 6 enginyers, assumint l’arquitectura, el repartiment de tasques i el lliurament amb un 99%+ de disponibilitat.',
         'Vaig treballar directament amb els clients per garantir un lliurament fluid, amb manteniment continu i suport de guàrdia en producció.',
       ],
       zh: [
-        '参与并发交付 6 个面向全西班牙、服务 1600 万+ 用户的大规模公共服务平台：Park Güell、ZBE（AMB）、马略卡出租车、马德里救护车、Flexitransport（AMTU），以及 BSM 车牌识别系统。',
-        '担任 Park Güell 与 ZBE（AMB）的团队负责人，主导架构决策、任务分配与实现细节。',
+        '参与并发交付 7 个面向全西班牙、服务 1600 万+ 用户的大规模公共服务平台：Park Güell、ZBE（AMB）、马略卡出租车、马德里 SUMMA 112、马德里 SAMUR、Flexitransport（AMTU），以及 BSM 车牌识别系统。',
+        '作为团队负责人带领 6 名工程师交付 Park Güell 与 ZBE（AMB），主导架构、任务分配与交付，正常运行时间达 99%+。',
         '直接与客户对接，保障顺利交付，并负责生产环境的持续维护与值班支持。',
       ],
     },
