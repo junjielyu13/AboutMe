@@ -97,22 +97,22 @@ export const experience: {
     desc: {
       en: [
         'Contributed to the concurrent delivery of 7 large-scale public-service platforms across Spain serving 16M+ end users: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU), and the BSM license-plate system.',
-        'Led Park Güell and ZBE (AMB) as team lead of 6 engineers, owning architecture, task allocation, and delivery with 99%+ uptime.',
+        'Led Park Güell and ZBE (AMB) as team lead of 6 engineers, owning architecture, task allocation, and delivery with a 99.9%+ crash-free session rate in production.',
         'Worked directly with clients to ensure smooth delivery, and ran ongoing maintenance and on-call support in production.',
       ],
       es: [
         'Participé en la entrega concurrente de 7 plataformas públicas a gran escala en toda España con 16M+ usuarios: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU) y el sistema de matrículas de BSM.',
-        'Lideré Park Güell y ZBE (AMB) como team lead de 6 ingenieros, asumiendo la arquitectura, el reparto de tareas y la entrega con un 99%+ de disponibilidad.',
+        'Lideré Park Güell y ZBE (AMB) como team lead de 6 ingenieros, asumiendo la arquitectura, el reparto de tareas y la entrega con una tasa de sesiones sin fallos del 99,9%+ en producción.',
         'Trabajé directamente con los clientes para asegurar una entrega fluida, con mantenimiento continuo y soporte de guardia en producción.',
       ],
       ca: [
         'Vaig participar en el lliurament concurrent de 7 plataformes públiques a gran escala arreu d’Espanya amb 16M+ usuaris: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU) i el sistema de matrícules de BSM.',
-        'Vaig liderar Park Güell i ZBE (AMB) com a team lead de 6 enginyers, assumint l’arquitectura, el repartiment de tasques i el lliurament amb un 99%+ de disponibilitat.',
+        'Vaig liderar Park Güell i ZBE (AMB) com a team lead de 6 enginyers, assumint l’arquitectura, el repartiment de tasques i el lliurament amb una taxa de sessions sense errors del 99,9%+ en producció.',
         'Vaig treballar directament amb els clients per garantir un lliurament fluid, amb manteniment continu i suport de guàrdia en producció.',
       ],
       zh: [
         '参与并发交付 7 个面向全西班牙、服务 1600 万+ 用户的大规模公共服务平台：Park Güell、ZBE（AMB）、马略卡出租车、马德里 SUMMA 112、马德里 SAMUR、Flexitransport（AMTU），以及 BSM 车牌识别系统。',
-        '作为团队负责人带领 6 名工程师交付 Park Güell 与 ZBE（AMB），主导架构、任务分配与交付，正常运行时间达 99%+。',
+        '作为团队负责人带领 6 名工程师交付 Park Güell 与 ZBE（AMB），主导架构、任务分配与交付，生产环境无崩溃会话率达 99.9%+。',
         '直接与客户对接，保障顺利交付，并负责生产环境的持续维护与值班支持。',
       ],
     },
@@ -216,19 +216,19 @@ export const experience: {
     tag: 'AI · computer vision',
     desc: {
       en: [
-        'Contributed to all core company products: subway and bus fare-evasion detection, a camera health-monitoring assistant, and a backoffice platform.',
+        'Built and maintained computer-vision fare-evasion detection deployed in production for NYC MTA (New York subway), FGC (Barcelona rail), and the Dubai bus network, plus a camera health-monitoring assistant and a backoffice platform.',
         'Joined tender teams, building technical demos and proof-of-concept solutions to support new client proposals.',
       ],
       es: [
-        'Contribuí a todos los productos clave: detección de evasión de pago en metro y bus, un asistente de salud de cámaras y una plataforma de backoffice.',
+        'Desarrollé y mantuve sistemas de detección de evasión de pago por visión por computador en producción para NYC MTA (metro de Nueva York), FGC (ferrocarriles de Barcelona) y la red de autobuses de Dubái, además de un asistente de salud de cámaras y una plataforma de backoffice.',
         'Participé en equipos de licitación, creando demos técnicas y pruebas de concepto para apoyar nuevas propuestas a clientes.',
       ],
       ca: [
-        'Vaig contribuir a tots els productes clau: detecció d’evasió de pagament al metro i bus, un assistent de salut de càmeres i una plataforma de backoffice.',
+        'Vaig desenvolupar i mantenir sistemes de detecció d’evasió de pagament per visió per computador en producció per a NYC MTA (metro de Nova York), FGC (ferrocarrils de Barcelona) i la xarxa d’autobusos de Dubai, a més d’un assistent de salut de càmeres i una plataforma de backoffice.',
         'Vaig participar en equips de licitació, creant demos tècniques i proves de concepte per donar suport a noves propostes a clients.',
       ],
       zh: [
-        '参与公司所有核心产品：地铁与公交逃票检测系统、摄像头健康监测助手以及后台管理平台。',
+        '开发并维护基于计算机视觉的逃票检测系统，已在纽约地铁（NYC MTA）、巴塞罗那铁路（FGC）与迪拜公交网络的生产环境部署，另有摄像头健康监测助手与后台管理平台。',
         '加入投标团队，构建技术演示与概念验证方案，支持新客户提案。',
       ],
     },
@@ -272,10 +272,10 @@ export const projects: {
     name: 'Vibe Coding — Indie Products',
     period: '2026',
     blurb: {
-      en: 'Independently designed, built, and launched 4 commercial products using agentic dev workflows (Claude Code, Codex) — all live with paying clients.',
-      es: 'Diseñé, construí y lancé de forma independiente 4 productos comerciales con flujos de desarrollo agénticos (Claude Code, Codex) — todos en producción y con clientes de pago.',
-      ca: 'Vaig dissenyar, construir i llançar de manera independent 4 productes comercials amb fluxos de desenvolupament agèntics (Claude Code, Codex) — tots en producció i amb clients de pagament.',
-      zh: '使用智能体开发工作流（Claude Code、Codex）独立设计、构建并上线 4 个商业产品——全部正式运营且拥有付费客户。',
+      en: 'Independently designed, built, and launched 4 commercial products — employee time-tracking, ordering, an AI document-organization agent, and a client website with ongoing maintenance — using agentic dev workflows (Claude Code, Codex). All live with paying customers.',
+      es: 'Diseñé, construí y lancé de forma independiente 4 productos comerciales — control horario de empleados, pedidos, un agente de IA para organización de documentos y una web de cliente con mantenimiento continuo — con flujos de desarrollo agénticos (Claude Code, Codex). Todos en producción y con clientes de pago.',
+      ca: 'Vaig dissenyar, construir i llançar de manera independent 4 productes comercials — control horari d’empleats, comandes, un agent d’IA per a l’organització de documents i un web de client amb manteniment continu — amb fluxos de desenvolupament agèntics (Claude Code, Codex). Tots en producció i amb clients de pagament.',
+      zh: '使用智能体开发工作流（Claude Code、Codex）独立设计、构建并上线 4 个商业产品——员工考勤、点单系统、AI 文档整理智能体，以及一个持续维护的客户网站。全部正式运营且拥有付费客户。',
     },
     tags: ['Full-stack', 'AI', 'SaaS', 'Agentic'],
   },
@@ -317,6 +317,10 @@ export const projects: {
 
 export const stack: { group: string; items: string[] }[] = [
   {
+    group: 'languages',
+    items: ['TypeScript', 'JavaScript', 'Python', 'C#', 'Swift', 'Kotlin', 'PHP'],
+  },
+  {
     group: 'frontend',
     items: ['React', 'Next.js', 'Angular', 'Vue', 'Electron', 'WPF'],
   },
@@ -330,7 +334,7 @@ export const stack: { group: string; items: string[] }[] = [
   },
   {
     group: 'data',
-    items: ['PostgreSQL', 'MySQL', 'MongoDB', 'Redis', 'RabbitMQ', 'Elasticsearch'],
+    items: ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB', 'Redis', 'RabbitMQ', 'Elasticsearch'],
   },
   {
     group: 'devops',
@@ -350,10 +354,10 @@ export const education = [
   {
     school: 'Polytechnic University of Catalonia (UPC)',
     degree: {
-      en: 'M.Eng. in Computer Science',
+      en: 'M.Eng. in Computer Engineering',
       es: 'Máster en Ingeniería Informática',
       ca: 'Màster en Enginyeria Informàtica',
-      zh: '计算机科学硕士',
+      zh: '计算机工程硕士',
     },
     period: '2024 — 2025',
   },
