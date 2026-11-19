@@ -101,7 +101,7 @@ export function Hero() {
                 </a>
                 <a
                   href={profile.cv}
-                  download
+                  download="Software Engineer Junjie Li.pdf"
                   className="inline-flex items-center gap-2 rounded-md border border-line bg-panel px-5 py-2.5 text-sm font-semibold text-text transition-colors hover:border-accent hover:text-accent"
                 >
                   <Icon.download />
