@@ -20,7 +20,7 @@ export const profile = {
   linkedin: 'https://www.linkedin.com/in/junjielyu/',
   linkedinLabel: 'linkedin.com/in/junjielyu',
   site: 'https://junjieli.vercel.app',
-  cv: '/Junjie_Li_CV.pdf',
+  cv: '/Software_Engineer_Junjie_Li.pdf',
 }
 
 /* ---------------- language names (per UI language) ---------------- */

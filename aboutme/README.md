@@ -11,7 +11,7 @@ framed as a terminal: each section is the output of a command (`$ whoami`, `$ ls
   remembers your choice (`localStorage`). Switch with the `EN / ES / CA / 中文` toggle.
 - **Animated terminal hero** with a boot sequence (respects `prefers-reduced-motion`).
 - **Sections** — about, experience timeline, projects, tech stack, contact.
-- **CV download** — served from `public/Junjie_Li_CV.pdf`.
+- **CV download** — served from `public/Software_Engineer_Junjie_Li.pdf`.
 - Fully responsive, accessible focus states, SEO/OpenGraph metadata.
 
 ## Run locally
@@ -38,7 +38,7 @@ are fetched at build time, so a network connection is required when building.
 | `src/lib/i18n.tsx`   | Language context / switcher logic. |
 | `src/components/`    | `Nav`, `Hero`, `Sections`, `ui` (primitives), `Site` (assembly). |
 | `src/app/`           | Layout (fonts, metadata) + `globals.css` (theme tokens). |
-| `public/Junjie_Li_CV.pdf` | Downloadable CV. |
+| `public/Software_Engineer_Junjie_Li.pdf` | Downloadable CV. |
 
-To update the CV, replace `public/Junjie_Li_CV.pdf`. To tweak the palette, edit the CSS
+To update the CV, replace `public/Software_Engineer_Junjie_Li.pdf`. To tweak the palette, edit the CSS
 custom properties (`--ground`, `--accent`, …) at the top of `src/app/globals.css`.
