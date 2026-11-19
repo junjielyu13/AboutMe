@@ -17,11 +17,11 @@ const jetbrains = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Junjie Li — Software Engineer',
+    default: 'Junjie Li — Full-Stack Software Engineer',
     template: '%s — Junjie Li',
   },
   description:
-    'Junjie Li — Software Engineer in Barcelona. Large-scale systems, AI products, and high-performance computing. Available for work.',
+    'Junjie Li — Full-stack software engineer in Barcelona. React Native, Node.js, .NET and AI-native workflows.',
   metadataBase: new URL(profile.site),
   alternates: { canonical: '/' },
   keywords: [
@@ -30,8 +30,9 @@ export const metadata: Metadata = {
     'Barcelona',
     'Full-stack Developer',
     'AI Engineer',
-    'HPC',
-    'Machine Learning',
+    'React Native',
+    'Mobile Developer',
+    'Node.js',
     'Next.js',
     'React',
     '.NET',
@@ -49,9 +50,9 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: 'Junjie Li — Software Engineer',
+    title: 'Junjie Li — Full-Stack Software Engineer',
     description:
-      'Large-scale systems, AI products, and high-performance computing. Based in Barcelona, open to opportunities.',
+      'Mobile apps and the backends behind them — React Native, Node.js, .NET. Based in Barcelona.',
     url: profile.site,
     siteName: 'Junjie Li',
     type: 'website',
@@ -59,18 +60,18 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Junjie Li — Software Engineer',
+    title: 'Junjie Li — Full-Stack Software Engineer',
     description:
-      'Large-scale systems, AI products, and high-performance computing. Based in Barcelona, open to opportunities.',
+      'Mobile apps and the backends behind them — React Native, Node.js, .NET. Based in Barcelona.',
   },
-  icons: {
-    icon: [
-      {
-        url:
-          "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230A0E16'/><text x='14' y='68' font-family='monospace' font-size='52' font-weight='bold' fill='%234DE2E2'>&gt;_</text></svg>",
-      },
-    ],
-  },
+}
+
+const websiteJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Junjie Li',
+  alternateName: 'Junjie Li — Full-Stack Software Engineer',
+  url: profile.site,
 }
 
 const personJsonLd = {
@@ -79,7 +80,7 @@ const personJsonLd = {
   name: profile.name,
   url: profile.site,
   email: `mailto:${profile.email}`,
-  jobTitle: 'Software Engineer',
+  jobTitle: 'Full-Stack Software Engineer',
   address: {
     '@type': 'PostalAddress',
     addressLocality: 'Barcelona',
@@ -88,11 +89,11 @@ const personJsonLd = {
   sameAs: [profile.github, profile.linkedin],
   knowsAbout: [
     'Software Engineering',
-    'Large-scale Systems',
-    'Artificial Intelligence',
-    'Computer Vision',
-    'High-Performance Computing',
+    'Mobile Development',
+    'React Native',
+    'Backend Development',
     'Full-stack Development',
+    'Artificial Intelligence',
   ],
 }
 
@@ -106,7 +107,7 @@ export default function RootLayout({
       <body>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify([websiteJsonLd, personJsonLd]) }}
         />
         {children}
       </body>

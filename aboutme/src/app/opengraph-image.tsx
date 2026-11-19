@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/server'
 import { profile } from '@/lib/content'
 
 export const runtime = 'edge'
-export const alt = 'Junjie Li — Software Engineer'
+export const alt = 'Junjie Li — Full-Stack Software Engineer'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 
@@ -49,7 +49,7 @@ export default function Image() {
         </div>
 
         <div style={{ display: 'flex', color: '#4DE2E2', fontSize: 44, marginTop: 12 }}>
-          Software Engineer
+          Full-Stack Software Engineer
         </div>
 
         <div

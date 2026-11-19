@@ -17,8 +17,8 @@ export const profile = {
   location: 'Barcelona, Spain',
   github: 'https://github.com/junjielyu13',
   githubLabel: 'github.com/junjielyu13',
-  linkedin: 'https://www.linkedin.com/in/junjie-li-a56045205/',
-  linkedinLabel: 'linkedin.com/in/junjie-li',
+  linkedin: 'https://www.linkedin.com/in/junjielyu/',
+  linkedinLabel: 'linkedin.com/in/junjielyu',
   site: 'https://junjieli.vercel.app',
   cv: '/Junjie_Li_CV.pdf',
 }
@@ -93,27 +93,35 @@ export const experience: {
     },
     period: '03.2025 — 07.2026',
     current: true,
-    tag: 'team lead · public-sector · full-stack',
+    tag: 'team lead · full-stack · public-sector',
     desc: {
       en: [
-        'Contributed to the concurrent delivery of 7 large-scale public-service platforms across Spain serving 16M+ end users: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU), and the BSM license-plate system.',
-        'Led Park Güell and ZBE (AMB) as team lead of 6 engineers, owning architecture, task allocation, and delivery with a 99.9%+ crash-free session rate in production.',
-        'Worked directly with clients to ensure smooth delivery, and ran ongoing maintenance and on-call support in production.',
+        'Contributed to the concurrent delivery of 8 public-service platforms across Spain serving 16M+ end users: Park Güell, ZBE (AMB), APT, Taxi Mallorca (GOIB), SUMMA 112, SAMUR Madrid, Flexitransport (AMTU) and the BSM license-plate system.',
+        'Led Park Güell, ZBE (AMB) and APT as team lead — owned architecture and effort estimation, delivered features end-to-end, and acted as the main technical contact for clients, with ongoing maintenance and on-call support across live platforms.',
+        'Delivered across the full stack: native iOS/Android, React Native and Kotlin Multiplatform, in-vehicle apps for the SUMMA 112 / SAMUR ambulance fleets, .NET microservices and REST APIs, and React back-offices; Park Güell alone serves ~57K monthly active users with a 99.99% crash-free rate.',
+        'Published an open-source npm package reused by other Barcelona City Council apps.',
+        'Built the company’s Claude Code-based agentic development workflow.',
       ],
       es: [
-        'Participé en la entrega concurrente de 7 plataformas públicas a gran escala en toda España con 16M+ usuarios: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU) y el sistema de matrículas de BSM.',
-        'Lideré Park Güell y ZBE (AMB) como team lead de 6 ingenieros, asumiendo la arquitectura, el reparto de tareas y la entrega con una tasa de sesiones sin fallos del 99,9%+ en producción.',
-        'Trabajé directamente con los clientes para asegurar una entrega fluida, con mantenimiento continuo y soporte de guardia en producción.',
+        'Participé en la entrega concurrente de 8 plataformas de servicio público en toda España con 16M+ usuarios finales: Park Güell, ZBE (AMB), APT, Taxi Mallorca (GOIB), SUMMA 112, SAMUR Madrid, Flexitransport (AMTU) y el sistema de matrículas de BSM.',
+        'Lideré Park Güell, ZBE (AMB) y APT como team lead: arquitectura y estimación de esfuerzo, entrega de funcionalidades de extremo a extremo y principal interlocutor técnico con los clientes, con mantenimiento continuo y guardias en producción.',
+        'Trabajé en todo el stack: apps nativas iOS/Android, React Native y Kotlin Multiplatform, apps embarcadas para las flotas de ambulancias de SUMMA 112 / SAMUR, microservicios .NET y APIs REST, y backoffices en React; solo Park Güell tiene ~57K usuarios activos mensuales con un 99,99% de sesiones sin fallos.',
+        'Publiqué un paquete npm open-source reutilizado por otras apps del Ayuntamiento de Barcelona.',
+        'Creé el flujo de desarrollo agéntico de la empresa basado en Claude Code.',
       ],
       ca: [
-        'Vaig participar en el lliurament concurrent de 7 plataformes públiques a gran escala arreu d’Espanya amb 16M+ usuaris: Park Güell, ZBE (AMB), Taxi Mallorca, SUMMA 112 Madrid, SAMUR Madrid, Flexitransport (AMTU) i el sistema de matrícules de BSM.',
-        'Vaig liderar Park Güell i ZBE (AMB) com a team lead de 6 enginyers, assumint l’arquitectura, el repartiment de tasques i el lliurament amb una taxa de sessions sense errors del 99,9%+ en producció.',
-        'Vaig treballar directament amb els clients per garantir un lliurament fluid, amb manteniment continu i suport de guàrdia en producció.',
+        'Vaig participar en el lliurament concurrent de 8 plataformes de servei públic arreu d’Espanya amb 16M+ usuaris finals: Park Güell, ZBE (AMB), APT, Taxi Mallorca (GOIB), SUMMA 112, SAMUR Madrid, Flexitransport (AMTU) i el sistema de matrícules de BSM.',
+        'Vaig liderar Park Güell, ZBE (AMB) i APT com a team lead: arquitectura i estimació d’esforç, lliurament de funcionalitats d’extrem a extrem i principal interlocutor tècnic amb els clients, amb manteniment continu i guàrdies en producció.',
+        'Vaig treballar en tot l’stack: apps natives iOS/Android, React Native i Kotlin Multiplatform, apps embarcades per a les flotes d’ambulàncies del SUMMA 112 / SAMUR, microserveis .NET i APIs REST, i backoffices en React; només Park Güell té ~57K usuaris actius mensuals amb un 99,99% de sessions sense errors.',
+        'Vaig publicar un paquet npm open-source reutilitzat per altres apps de l’Ajuntament de Barcelona.',
+        'Vaig crear el flux de desenvolupament agèntic de l’empresa basat en Claude Code.',
       ],
       zh: [
-        '参与并发交付 7 个面向全西班牙、服务 1600 万+ 用户的大规模公共服务平台：Park Güell、ZBE（AMB）、马略卡出租车、马德里 SUMMA 112、马德里 SAMUR、Flexitransport（AMTU），以及 BSM 车牌识别系统。',
-        '作为团队负责人带领 6 名工程师交付 Park Güell 与 ZBE（AMB），主导架构、任务分配与交付，生产环境无崩溃会话率达 99.9%+。',
-        '直接与客户对接，保障顺利交付，并负责生产环境的持续维护与值班支持。',
+        '参与并发交付 8 个面向全西班牙、服务 1600 万+ 终端用户的公共服务平台：Park Güell、ZBE（AMB）、APT、马略卡出租车（GOIB）、SUMMA 112、马德里 SAMUR、Flexitransport（AMTU），以及 BSM 车牌识别系统。',
+        '作为 team lead 负责 Park Güell、ZBE（AMB）与 APT：主导架构与工作量评估，端到端交付功能，担任客户的主要技术对接人，并负责线上平台的持续维护与值班支持。',
+        '覆盖全栈：原生 iOS/Android、React Native 与 Kotlin Multiplatform 应用，SUMMA 112 / SAMUR 救护车队的车载应用，.NET 微服务与 REST API，以及 React 后台；仅 Park Güell 就有约 5.7 万月活用户，无崩溃率 99.99%。',
+        '发布开源 npm 包，被巴塞罗那市政府的其他应用复用。',
+        '为公司搭建基于 Claude Code 的智能体开发工作流。',
       ],
     },
   },
@@ -130,19 +138,19 @@ export const experience: {
     desc: {
       en: [
         'Optimized a large-scale hydrological model for HPC clusters using task-based parallelism and distributed scheduling.',
-        'Achieved up to 35× speedup over the baseline; results accepted for presentation at EGU 2026.',
+        'Achieved up to 35× speedup over the baseline; results presented at EGU 2026.',
       ],
       es: [
         'Optimicé un modelo hidrológico a gran escala para clústeres HPC usando paralelismo por tareas y planificación distribuida.',
-        'Conseguí hasta 35× de aceleración sobre la versión base; resultados aceptados para presentar en EGU 2026.',
+        'Conseguí hasta 35× de aceleración sobre la versión base; resultados presentados en EGU 2026.',
       ],
       ca: [
         'Vaig optimitzar un model hidrològic a gran escala per a clústers HPC amb paral·lelisme per tasques i planificació distribuïda.',
-        'Vaig assolir fins a 35× d’acceleració respecte a la versió base; resultats acceptats per presentar a EGU 2026.',
+        'Vaig assolir fins a 35× d’acceleració respecte a la versió base; resultats presentats a EGU 2026.',
       ],
       zh: [
         '使用基于任务的并行与分布式调度，为高性能计算集群优化大规模水文模型。',
-        '相比基线实现最高达 35× 加速；研究成果被 EGU 2026 接收做报告。',
+        '相比基线实现最高达 35× 加速；研究成果在 EGU 2026 上报告。',
       ],
     },
   },
@@ -269,24 +277,37 @@ export const projects: {
   tags: string[]
 }[] = [
   {
-    name: 'Vibe Coding — Indie Products',
-    period: '2026',
+    name: 'Freelance Client Work',
+    period: '01.2026 — 10.2026',
     blurb: {
-      en: 'Independently designed, built, and launched 4 commercial products — employee time-tracking, ordering, an AI document-organization agent, and a client website with ongoing maintenance — using agentic dev workflows (Claude Code, Codex). All live with paying customers.',
-      es: 'Diseñé, construí y lancé de forma independiente 4 productos comerciales — control horario de empleados, pedidos, un agente de IA para organización de documentos y una web de cliente con mantenimiento continuo — con flujos de desarrollo agénticos (Claude Code, Codex). Todos en producción y con clientes de pago.',
-      ca: 'Vaig dissenyar, construir i llançar de manera independent 4 productes comercials — control horari d’empleats, comandes, un agent d’IA per a l’organització de documents i un web de client amb manteniment continu — amb fluxos de desenvolupament agèntics (Claude Code, Codex). Tots en producció i amb clients de pagament.',
-      zh: '使用智能体开发工作流（Claude Code、Codex）独立设计、构建并上线 4 个商业产品——员工考勤、点单系统、AI 文档整理智能体，以及一个持续维护的客户网站。全部正式运营且拥有付费客户。',
+      en: 'Delivered 4 client projects end-to-end as the sole engineer — employee time-tracking, ordering, an AI document-organization agent, and a client website with ongoing maintenance — built with Next.js, React and Supabase (Postgres, auth) on serverless infrastructure, using agentic workflows (Claude Code, Codex).',
+      es: 'Entregué 4 proyectos para clientes de extremo a extremo como único ingeniero — control horario de empleados, pedidos, un agente de IA para organizar documentos y una web de cliente con mantenimiento continuo — con Next.js, React y Supabase (Postgres, auth) sobre infraestructura serverless, usando flujos agénticos (Claude Code, Codex).',
+      ca: 'Vaig lliurar 4 projectes per a clients d’extrem a extrem com a únic enginyer — control horari d’empleats, comandes, un agent d’IA per organitzar documents i un web de client amb manteniment continu — amb Next.js, React i Supabase (Postgres, auth) sobre infraestructura serverless, amb fluxos agèntics (Claude Code, Codex).',
+      zh: '作为唯一工程师端到端交付 4 个客户项目——员工考勤、点单系统、AI 文档整理智能体，以及一个持续维护的客户网站；基于 Next.js、React 与 Supabase（Postgres、认证），部署在 Serverless 基础设施上，使用智能体开发工作流（Claude Code、Codex）。',
     },
-    tags: ['Full-stack', 'AI', 'SaaS', 'Agentic'],
+    tags: ['Full-stack', 'Next.js', 'Supabase', 'Agentic'],
+  },
+  {
+    name: 'react-native-modul-comu-osam',
+    period: '2025—2026',
+    link: 'https://www.npmjs.com/package/react-native-modul-comu-osam',
+    repo: 'https://github.com/junjielyu13/react-native-modul-comu-osam',
+    blurb: {
+      en: 'Open-source React Native bridge for Barcelona City Council’s OSAM common module: version control, rating prompt, device info and FCM topics. Published on npm, 1.1K+ downloads/yr.',
+      es: 'Bridge open-source de React Native para el módulo común OSAM del Ayuntamiento de Barcelona: control de versiones, valoración, info del dispositivo y topics de FCM. Publicado en npm, 1,1K+ descargas/año.',
+      ca: 'Bridge open-source de React Native per al mòdul comú OSAM de l’Ajuntament de Barcelona: control de versions, valoració, info del dispositiu i topics de FCM. Publicat a npm, 1,1K+ descàrregues/any.',
+      zh: '巴塞罗那市政府 OSAM 公共模块的开源 React Native bridge：版本控制、评分弹窗、设备信息与 FCM 主题订阅。已发布到 npm，年下载 1100+。',
+    },
+    tags: ['React Native', 'Open Source', 'npm'],
   },
   {
     name: 'HPC Hydrological Model',
     period: '2025—2026',
     blurb: {
-      en: 'Task-parallel rewrite of a large hydrological model for HPC clusters. Up to 35× faster; accepted at EGU 2026.',
-      es: 'Reescritura paralela por tareas de un gran modelo hidrológico para clústeres HPC. Hasta 35× más rápido; aceptado en EGU 2026.',
-      ca: 'Reescriptura paral·lela per tasques d’un gran model hidrològic per a clústers HPC. Fins a 35× més ràpid; acceptat a EGU 2026.',
-      zh: '将大型水文模型改写为任务并行版本，运行于 HPC 集群，最高 35× 加速；被 EGU 2026 接收。',
+      en: 'Task-parallel rewrite of a large hydrological model for HPC clusters. Up to 35× faster; presented at EGU 2026.',
+      es: 'Reescritura paralela por tareas de un gran modelo hidrológico para clústeres HPC. Hasta 35× más rápido; presentado en EGU 2026.',
+      ca: 'Reescriptura paral·lela per tasques d’un gran model hidrològic per a clústers HPC. Fins a 35× més ràpid; presentat a EGU 2026.',
+      zh: '将大型水文模型改写为任务并行版本，运行于 HPC 集群，最高 35× 加速；在 EGU 2026 上报告。',
     },
     tags: ['HPC', 'Parallelism', 'Research'],
   },
@@ -316,38 +337,16 @@ export const projects: {
 ]
 
 export const stack: { group: string; items: string[] }[] = [
-  {
-    group: 'languages',
-    items: ['TypeScript', 'JavaScript', 'Python', 'C#', 'Swift', 'Kotlin', 'PHP'],
-  },
-  {
-    group: 'frontend',
-    items: ['React', 'Next.js', 'Angular', 'Vue', 'Electron', 'WPF'],
-  },
-  {
-    group: 'mobile',
-    items: ['Swift / iOS', 'React Native', 'Kotlin Multiplatform', 'Native SDK'],
-  },
-  {
-    group: 'backend',
-    items: ['.NET', 'Node.js', 'Nest.js', 'Laravel', 'Django', 'GraphQL', 'REST'],
-  },
-  {
-    group: 'data',
-    items: ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB', 'Redis', 'RabbitMQ', 'Elasticsearch'],
-  },
-  {
-    group: 'devops',
-    items: ['Docker', 'Kubernetes', 'AWS', 'Azure', 'Nginx', 'CI/CD', 'Jenkins'],
-  },
-  {
-    group: 'ai / hpc',
-    items: ['PyTorch', 'Computer Vision', 'Transformers', 'Task Parallelism', 'HPC'],
-  },
-  {
-    group: 'agentics',
-    items: ['LLM APIs', 'Vector DB', 'RAG', 'Embeddings', 'MCP', 'Agentic Systems'],
-  },
+  { group: 'languages', items: ['TypeScript', 'JavaScript', 'Kotlin', 'Swift', 'C#', 'Python', 'PHP'] },
+  { group: 'mobile', items: ['React Native', 'Expo', 'Kotlin Multiplatform', 'Android', 'iOS', 'Firebase'] },
+  { group: 'frontend', items: ['React', 'Next.js', 'Angular', 'WPF', 'Electron'] },
+  { group: 'backend', items: ['.NET', 'Node.js', 'Nest.js', 'Django', 'Laravel', 'REST'] },
+  { group: 'data', items: ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB', 'Redis', 'RabbitMQ', 'Elasticsearch'] },
+  { group: 'testing', items: ['Jest', 'xUnit', 'JUnit', 'Espresso', 'Playwright', 'E2E automation'] },
+  { group: 'devops', items: ['AWS', 'Azure', 'Git', 'Docker', 'Kubernetes', 'GitLab CI', 'Jenkins'] },
+  { group: 'ai', items: ['LLM APIs', 'Agentic workflows', 'MCP', 'RAG'] },
+  { group: 'ml', items: ['PyTorch', 'Computer Vision'] },
+  { group: 'hpc', items: ['Parallelism', 'Distributed scheduling', 'Cluster performance optimization'] },
 ]
 
 export const education = [
@@ -375,12 +374,12 @@ export const education = [
 
 export const dict: Record<Lang, Dict> = {
   en: {
-    role: 'Software Engineer',
+    role: 'Full-Stack Software Engineer',
     nav: { about: 'about', work: 'work', projects: 'projects', stack: 'stack', contact: 'contact' },
     hero: {
       boot: ['initializing session…', 'loading profile from /home/junjie', 'ready.'],
-      tagline: 'I build large-scale systems, AI products, and things that ship.',
-      sub: 'Software Engineer based in Barcelona — full-stack, applied AI, and high-performance computing.',
+      tagline: 'I build mobile apps and the backends behind them — and keep them alive in production.',
+      sub: 'Full-stack software engineer in Barcelona — React Native, Node.js, .NET, and AI-native workflows.',
       available: 'available for work',
       ctaWork: 'view work',
       ctaCv: 'download CV',
@@ -391,13 +390,13 @@ export const dict: Record<Lang, Dict> = {
         title: 'about',
         body: [
           'I’m a software engineer who likes the hard, end-to-end parts: shipping real systems people depend on, then keeping them alive in production.',
-          'I’ve worked across public-service platforms used by millions, AI and computer-vision products, and HPC research that turned a slow model into one running 35× faster on a cluster. I move comfortably from a Swift app to a Kubernetes cluster to a distributed scheduler.',
-          'Lately I’ve been shipping my own indie products with AI-assisted workflows — some live and earning. I’m looking for a team building ambitious things at scale.',
+          'I lead Park Güell, ZBE (AMB) and APT as team lead, within 8 public-service platforms serving 16M+ end users — Park Güell alone has ~57K monthly active users at a 99.99% crash-free rate — and built the in-vehicle apps for Madrid’s SUMMA 112 and SAMUR ambulance fleets. Before that: computer vision in production for NYC MTA, and HPC research that made a hydrological model 35× faster.',
+          'On the side I deliver full-stack projects for clients with agentic workflows. I’m looking for a product team where I can own features from the app down to the backend.',
         ],
         facts: [
           { k: 'location', v: 'Barcelona, Spain' },
           { k: 'languages', v: '@languages' },
-          { k: 'focus', v: 'Systems · AI · HPC' },
+          { k: 'focus', v: 'Mobile · Full-stack · AI' },
           { k: 'status', v: 'open to opportunities' },
         ],
       },
@@ -417,12 +416,12 @@ export const dict: Record<Lang, Dict> = {
     langLabel: 'language',
   },
   es: {
-    role: 'Ingeniero de Software',
+    role: 'Ingeniero de Software Full-Stack',
     nav: { about: 'sobre-mí', work: 'experiencia', projects: 'proyectos', stack: 'stack', contact: 'contacto' },
     hero: {
       boot: ['iniciando sesión…', 'cargando perfil desde /home/junjie', 'listo.'],
-      tagline: 'Construyo sistemas a gran escala, productos de IA y cosas que llegan a producción.',
-      sub: 'Ingeniero de Software en Barcelona — full-stack, IA aplicada y computación de alto rendimiento.',
+      tagline: 'Construyo apps móviles y los backends que las sostienen — y las mantengo vivas en producción.',
+      sub: 'Ingeniero de software full-stack en Barcelona — React Native, Node.js, .NET y flujos AI-native.',
       available: 'disponible para trabajar',
       ctaWork: 'ver experiencia',
       ctaCv: 'descargar CV',
@@ -433,13 +432,13 @@ export const dict: Record<Lang, Dict> = {
         title: 'sobre mí',
         body: [
           'Soy ingeniero de software al que le gustan las partes difíciles y de extremo a extremo: lanzar sistemas reales de los que la gente depende y mantenerlos vivos en producción.',
-          'He trabajado en plataformas de servicio público usadas por millones, productos de IA y visión por computador, e investigación en HPC que convirtió un modelo lento en otro 35× más rápido en un clúster. Me muevo con soltura desde una app en Swift hasta un clúster de Kubernetes o un planificador distribuido.',
-          'Últimamente lanzo mis propios productos indie con flujos asistidos por IA — algunos en producción y generando ingresos. Busco un equipo que construya cosas ambiciosas a gran escala.',
+          'Lidero Park Güell, ZBE (AMB) y APT como team lead, dentro de 8 plataformas de servicio público con 16M+ usuarios finales — solo Park Güell tiene ~57K usuarios activos mensuales con un 99,99% sin fallos — y desarrollé las apps embarcadas de las ambulancias de SUMMA 112 y SAMUR en Madrid. Antes: visión por computador en producción para NYC MTA e investigación HPC que hizo 35× más rápido un modelo hidrológico.',
+          'En paralelo entrego proyectos full-stack para clientes con flujos agénticos. Busco un equipo de producto donde pueda hacerme cargo de funcionalidades desde la app hasta el backend.',
         ],
         facts: [
           { k: 'ubicación', v: 'Barcelona, España' },
           { k: 'idiomas', v: '@languages' },
-          { k: 'enfoque', v: 'Sistemas · IA · HPC' },
+          { k: 'enfoque', v: 'Mobile · Full-stack · IA' },
           { k: 'estado', v: 'abierto a oportunidades' },
         ],
       },
@@ -459,12 +458,12 @@ export const dict: Record<Lang, Dict> = {
     langLabel: 'idioma',
   },
   ca: {
-    role: 'Enginyer de Programari',
+    role: 'Enginyer de Programari Full-Stack',
     nav: { about: 'sobre-mi', work: 'experiència', projects: 'projectes', stack: 'stack', contact: 'contacte' },
     hero: {
       boot: ['iniciant sessió…', 'carregant perfil des de /home/junjie', 'a punt.'],
-      tagline: 'Construeixo sistemes a gran escala, productes d’IA i coses que arriben a producció.',
-      sub: 'Enginyer de Programari a Barcelona — full-stack, IA aplicada i computació d’alt rendiment.',
+      tagline: 'Construeixo apps mòbils i els backends que les sostenen — i les mantinc vives en producció.',
+      sub: 'Enginyer de programari full-stack a Barcelona — React Native, Node.js, .NET i fluxos AI-native.',
       available: 'disponible per treballar',
       ctaWork: 'veure experiència',
       ctaCv: 'descarregar CV',
@@ -475,13 +474,13 @@ export const dict: Record<Lang, Dict> = {
         title: 'sobre mi',
         body: [
           'Sóc enginyer de programari a qui agraden les parts difícils i d’extrem a extrem: llançar sistemes reals dels quals la gent depèn i mantenir-los vius en producció.',
-          'He treballat en plataformes de servei públic usades per milions, productes d’IA i visió per computador, i recerca en HPC que va convertir un model lent en un altre 35× més ràpid en un clúster. Em moc amb soltesa des d’una app en Swift fins a un clúster de Kubernetes o un planificador distribuït.',
-          'Últimament llanço els meus propis productes indie amb fluxos assistits per IA — alguns en producció i generant ingressos. Busco un equip que construeixi coses ambicioses a gran escala.',
+          'Lidero Park Güell, ZBE (AMB) i APT com a team lead, dins de 8 plataformes de servei públic amb 16M+ usuaris finals — només Park Güell té ~57K usuaris actius mensuals amb un 99,99% sense errors — i vaig desenvolupar les apps embarcades de les ambulàncies del SUMMA 112 i SAMUR a Madrid. Abans: visió per computador en producció per a NYC MTA i recerca HPC que va fer 35× més ràpid un model hidrològic.',
+          'En paral·lel lliuro projectes full-stack per a clients amb fluxos agèntics. Busco un equip de producte on pugui fer-me càrrec de funcionalitats des de l’app fins al backend.',
         ],
         facts: [
           { k: 'ubicació', v: 'Barcelona, Espanya' },
           { k: 'idiomes', v: '@languages' },
-          { k: 'enfocament', v: 'Sistemes · IA · HPC' },
+          { k: 'enfocament', v: 'Mobile · Full-stack · IA' },
           { k: 'estat', v: 'obert a oportunitats' },
         ],
       },
@@ -501,12 +500,12 @@ export const dict: Record<Lang, Dict> = {
     langLabel: 'idioma',
   },
   zh: {
-    role: '软件工程师',
+    role: '全栈软件工程师',
     nav: { about: '关于', work: '经历', projects: '项目', stack: '技术栈', contact: '联系' },
     hero: {
       boot: ['正在初始化会话…', '从 /home/junjie 加载个人资料', '就绪。'],
-      tagline: '我构建大规模系统、AI 产品，以及真正能上线的东西。',
-      sub: '常驻巴塞罗那的软件工程师 —— 全栈、应用 AI 与高性能计算。',
+      tagline: '我做移动 App 和支撑它们的后端，并让它们在生产环境里稳定运行。',
+      sub: '常驻巴塞罗那的全栈软件工程师 —— React Native、Node.js、.NET 与 AI-native 开发。',
       available: '正在求职',
       ctaWork: '查看经历',
       ctaCv: '下载简历',
@@ -517,13 +516,13 @@ export const dict: Record<Lang, Dict> = {
         title: '关于我',
         body: [
           '我是一名软件工程师，喜欢啃最硬、贯穿端到端的部分：把人们真正依赖的系统做出来、上线，并在生产环境里把它们稳稳地维护好。',
-          '我做过服务数百万人的公共服务平台、AI 与计算机视觉产品，也在 HPC 研究中把一个缓慢的模型在集群上跑出 35× 的加速。从一个 Swift 应用，到 Kubernetes 集群，再到分布式调度器，我都能自如切换。',
-          '最近我用 AI 辅助工作流独立做了几个小产品——有些已经上线并产生收入。我正在寻找一个用规模化方式做有野心的事情的团队。',
+          '我以 team lead 身份负责 Park Güell、ZBE（AMB）与 APT，所在的 8 个公共服务平台服务 1600 万+ 终端用户——仅 Park Güell 就有约 5.7 万月活、无崩溃率 99.99%；也开发了马德里 SUMMA 112 与 SAMUR 救护车队的车载应用。更早之前：为纽约地铁做过上线的计算机视觉系统，在 HPC 研究中把水文模型加速 35×。',
+          '业余时间我用智能体工作流为客户交付全栈项目。我在找一个产品团队，能让我从 App 到后端完整负责一块功能。',
         ],
         facts: [
           { k: '所在地', v: '西班牙 · 巴塞罗那' },
           { k: '语言', v: '@languages' },
-          { k: '方向', v: '系统 · AI · 高性能计算' },
+          { k: '方向', v: '移动端 · 全栈 · AI' },
           { k: '状态', v: '开放新机会' },
         ],
       },
